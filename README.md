@@ -2,7 +2,8 @@
 رؤي وخواطر شخصية حول المادة العلمية (الخوارزميات) ألقي عليها الضوء لعلها تنفع من يرغب 
 
 # Resources
-Stanford Algorithms Specialization: https://www.coursera.org/learn/algorithms-divide-conquer
+Stanford Algorithms Specialization: https://www.coursera.org/learn/algorithms-divide-conquer, 
+
 Mohammed Ayman Algorithms repo: https://github.com/cs-MohamedAyman
 # Divide-and-Conquer-Design-Paradigm
 -فرٍٍق تغزو-
